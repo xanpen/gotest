@@ -1,6 +1,8 @@
 package base
 
-import "fmt"
+import (
+	"fmt"
+)
 
 // 表达式估值顺序
 func EvaluateOfExpression() {
