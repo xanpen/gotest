@@ -1,3 +1,3 @@
 # gotest
 
-A personal code bases for  learning or testing.
+A personal code bases for  learning or testing
